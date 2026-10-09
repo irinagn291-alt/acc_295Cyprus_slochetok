@@ -1,4 +1,4 @@
-<!-- gf-brief source=e2f906d5d7fbad637929ddb1d68ed2ff860f79dbf17cb222a81af420562c587d written=2026-10-09T13:25:38+03:00 -->
+<!-- gf-brief source=e2f906d5d7fbad637929ddb1d68ed2ff860f79dbf17cb222a81af420562c587d written=2026-10-09T13:30:07+03:00 -->
 # Slochetok
 ## What it is
 Slochetok is a session notebook for coaches and therapists. You keep a client roster on this device, run each visit on a 0-to-10 scale, write Outcome, Know-how, and Action, then Review to file the note.
