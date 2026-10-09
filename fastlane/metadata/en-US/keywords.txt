@@ -1,0 +1,1 @@
+coach,therapist,session,notes,roster,visit,scale,clients,review,harvest,desk,QR,outcome,progress

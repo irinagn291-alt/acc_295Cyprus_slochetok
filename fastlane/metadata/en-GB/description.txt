@@ -1,0 +1,19 @@
+Slochetok is a session notebook for coaches and therapists. You keep a client roster on this device, run each visit on a 0 to 10 scale, write Outcome, Know-how and Action, then Review to file the note.
+
+• Session notes that stay on this phone
+• Client roster with a name and a desk code
+• Face ID to unseal Clients
+• Open visit on a vertical 0–10 scale bead
+• Write Outcome, then Set
+• Write Know-how and Action, then Harvest
+• Stamp Confidence 1–5 and Review to file the visit
+• Automatic next blank visit after Review
+• Retract to remove the last filed note while the next visit is still blank
+• Progress scale bars and filed Confidence list for the selected client
+• Scan a desk QR, or type the desk code, to open that visit
+• Export visit JSON
+• Run onboarding again
+• Reset all data
+• Contact Stile
+
+Names, visits and notes stay on this device.
